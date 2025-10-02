@@ -14,7 +14,7 @@ public class Week05 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Week05[] week05 = new Week05[3]
+        // TODO code application logic here
     }
     
 }
